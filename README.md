@@ -4,10 +4,12 @@ Public APK downloads for **PySD**, a Python IDE for Android with the shared C++ 
 
 ## Latest release
 
-- [PySD 1.0.2 release](https://github.com/hamadax2/PySD-android/releases/tag/v1.0.2)
+- [PySD 1.0.3 release](https://github.com/hamadax2/PySD-android/releases/tag/v1.0.3)
 - Universal APK: `armeabi-v7a` + `arm64-v8a`
 - Terminal-style `input()` prompts during program execution
 - Built-in shell for `pip install`, `pip list`, and related commands
+- Python-aware auto-indentation for `if`, `for`, `def`, `class`, and exception blocks
+- Automatic update check at startup and a manual **Check for updates** menu item
 - Unity Ads Game ID: `800392954`
 
-Verify the APK with the included `SHA256SUMS.txt` file before installing. Releases 1.0.0, 1.0.1, and 1.0.2 are signed with the same C++ SD release key.
+Verify the APK with the included `SHA256SUMS.txt` file before installing. The 1.0.3 APK is signed and includes a SHA-256 checksum for verification.
